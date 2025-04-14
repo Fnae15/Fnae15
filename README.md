@@ -1,3 +1,1 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/Fnae15=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=++%3D%3D%3D%3D%3D%3D%3D+Fnae15+%3D%3D%3D%3D%3D%3D%3D;%3D%3D%3D%3D%3D%3D+Elijah+M+Towns+%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
